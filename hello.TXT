@@ -10,7 +10,7 @@ hello git hello zx
 hello git hello zx
 hello git hello zx
 hello git hello zx
-hello git hello zx  master
+hello git hello zx  master  test
 hello git hello zx
 hello git hello zx
-hello git hello zx hot-fix test
+hello git hello zx 
